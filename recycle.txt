@@ -1,0 +1,25 @@
+#!/bin/bash
+
+control=$1
+files=$2
+database=$3
+ram=$4
+
+lxc-stop -n "$control"
+lxc-stop -n "$files"
+lxc-stop -n "$database"
+lxc-stop -n "$ram"
+lxc-destroy -n "$control"
+lxc-destroy -n "$files"
+lxc-destroy -n "$database"
+lxc-destroy -n "$ram"
+
+lxc-create -n "$control" -t download -- -d ubuntu -r focal -a amd64
+lxc-create -n "$files" -t download -- -d ubuntu -r focal -a amd64
+lxc-create -n "$database" -t download -- -d ubuntu -r focal -a amd64
+lxc-create -n "$ram" -t download -- -d ubuntu -r focal -a amd64
+sleep 10
+lxc-copy -n "control_template" -N "$control"
+lxc-copy -n "files_template" -N "$files"
+lxc-copy -n "database_template" -N "$database"
+lxc-copy -n "ram_copy" -N "$ram"
