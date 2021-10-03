@@ -29,5 +29,5 @@ lxc-start -n "$control"
 lxc-start -n "$files"
 lxc-start -n "$database"
 lxc-start -n "$ram"
-echo "All containers have been starts on $date" >> recycling_results.txt
+echo "All containers have been started on $date" >> recycling_results.txt
 
