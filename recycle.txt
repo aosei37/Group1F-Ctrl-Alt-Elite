@@ -33,5 +33,5 @@ lxc-start -n "$files"
 lxc-start -n "$database"
 lxc-start -n "$ram"
 echo "All containers have been started!" >> recycling_results.txt
-echo "----------------------------------------" >> recycling_result.txt
+echo "----------------------------------------" >> recycling_results.txt
 
