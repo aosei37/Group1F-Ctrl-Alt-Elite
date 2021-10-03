@@ -6,6 +6,9 @@ database=$3
 ram=$4
 date=`date`
 
+echo "Recycle Date: $date" >> recycling_results.txt
+echo "Starting to recycle containers: $control, $files, $database, $ram...." >> recycling_results.txt 
+
 lxc-stop -n "$control"
 lxc-stop -n "$files"
 lxc-stop -n "$database"
@@ -14,7 +17,7 @@ lxc-destroy -n "$control"
 lxc-destroy -n "$files"
 lxc-destroy -n "$database"
 lxc-destroy -n "$ram"
-echo "All containers have been destroyed on $date" >> recycling_results.txt
+echo "All containers have been stopped and destroyed..." >> recycling_results.txt
 
 sleep 10
 
@@ -23,11 +26,12 @@ lxc-copy -n "control_template" -N "$control"
 lxc-copy -n "files_template" -N "$files"
 lxc-copy -n "database_template" -N "$database"
 lxc-copy -n "ram_copy" -N "$ram"
-echo "All containers have been copied with their corresponding template on $date" >> recycling_results.txt
+echo "All containers have been copied with their corresponding template..." >> recycling_results.txt
 
 lxc-start -n "$control"
 lxc-start -n "$files"
 lxc-start -n "$database"
 lxc-start -n "$ram"
-echo "All containers have been starts on $date" >> recycling_results.txt
+echo "All containers have been started!" >> recycling_results.txt
+echo "----------------------------------------" >> recycling_result.txt
 
