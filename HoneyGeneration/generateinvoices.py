@@ -11,7 +11,7 @@ orig_stdout = sys.stdout
 
 for customer in customerdata:
     
-    textfilename = "invoice" + '{:0>4}'.format(counter) + '.txt'
+    textfilename = "invoices/invoice" + '{:0>4}'.format(counter) + '.txt'
     f = open(textfilename, 'w')
     sys.stdout = f
 
