@@ -1,0 +1,546 @@
+Company Details:
+Name: KATRA Inc
+Address: 10178 Shelia Shoals
+East Johnview, GA 19047
+
+
+[
+  {
+    "Date of Issue": "2019-04-01",
+    "First Name": "Catherine",
+    "Last Name": "Wheeler",
+    "Residence": "130 Rebecca Point\nPattersonport, AL 61057",
+    "Email": "Catherine.Wheeler@gmail.com",
+    "Phone Number": "6171766179",
+    "Items Purchased": [
+      {
+        "Product Name": "Table",
+        "QTY": 4,
+        "Unit Price": 331.48,
+        "Total Cost": 1325.92
+      },
+      {
+        "Product Name": "Generic Bike",
+        "QTY": 11,
+        "Unit Price": 113.58,
+        "Total Cost": 1249.3799999999999
+      },
+      {
+        "Product Name": "Handmade Frozen Mouse",
+        "QTY": 10,
+        "Unit Price": 269.39,
+        "Total Cost": 2693.8999999999996
+      },
+      {
+        "Product Name": "New Fresh Soap",
+        "QTY": 2,
+        "Unit Price": 407.38,
+        "Total Cost": 814.76
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2005-08-05",
+    "First Name": "Susan",
+    "Last Name": "Flores",
+    "Residence": "6411 Diane Valleys\nSouth Nicoleburgh, AK 74474",
+    "Email": "Susan.Flores@gmail.com",
+    "Phone Number": "8189499502",
+    "Items Purchased": [
+      {
+        "Product Name": "Bike",
+        "QTY": 5,
+        "Unit Price": 256.55,
+        "Total Cost": 1282.75
+      },
+      {
+        "Product Name": "Plastic Chair",
+        "QTY": 11,
+        "Unit Price": 517.31,
+        "Total Cost": 5690.41
+      },
+      {
+        "Product Name": "Handcrafted Plastic Bacon",
+        "QTY": 3,
+        "Unit Price": 144.44,
+        "Total Cost": 433.32
+      },
+      {
+        "Product Name": "Towels",
+        "QTY": 2,
+        "Unit Price": 378.13,
+        "Total Cost": 756.26
+      },
+      {
+        "Product Name": "Sausages",
+        "QTY": 5,
+        "Unit Price": 7.92,
+        "Total Cost": 39.6
+      },
+      {
+        "Product Name": "Towels",
+        "QTY": 8,
+        "Unit Price": 165.01,
+        "Total Cost": 1320.08
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2018-12-28",
+    "First Name": "Elizabeth",
+    "Last Name": "Green",
+    "Residence": "810 Morgan Neck Apt. 546\nSouth Sharon, CO 33891",
+    "Email": "Elizabeth.Green@gmail.com",
+    "Phone Number": "6933761742",
+    "Items Purchased": [
+      {
+        "Product Name": "Incredible Soap",
+        "QTY": 10,
+        "Unit Price": 16.77,
+        "Total Cost": 167.7
+      },
+      {
+        "Product Name": "Plastic Shirt",
+        "QTY": 8,
+        "Unit Price": 547.19,
+        "Total Cost": 4377.52
+      },
+      {
+        "Product Name": "Refined Car",
+        "QTY": 6,
+        "Unit Price": 309.95,
+        "Total Cost": 1859.6999999999998
+      },
+      {
+        "Product Name": "Steel Table",
+        "QTY": 4,
+        "Unit Price": 346.55,
+        "Total Cost": 1386.2
+      },
+      {
+        "Product Name": "Cotton Soap",
+        "QTY": 9,
+        "Unit Price": 231.23,
+        "Total Cost": 2081.0699999999997
+      },
+      {
+        "Product Name": "Small Table",
+        "QTY": 3,
+        "Unit Price": 106.34,
+        "Total Cost": 319.02
+      },
+      {
+        "Product Name": "Small Towels",
+        "QTY": 9,
+        "Unit Price": 118.16,
+        "Total Cost": 1063.44
+      },
+      {
+        "Product Name": "Chips",
+        "QTY": 3,
+        "Unit Price": 329.58,
+        "Total Cost": 988.74
+      },
+      {
+        "Product Name": "Gently Used Fresh Gloves",
+        "QTY": 5,
+        "Unit Price": 126.1,
+        "Total Cost": 630.5
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2005-01-27",
+    "First Name": "Wanda",
+    "Last Name": "Ruiz",
+    "Residence": "80945 Patricia Rue\nSouth Gary, AK 06699",
+    "Email": "Wanda.Ruiz@gmail.com",
+    "Phone Number": "9024273061",
+    "Items Purchased": [
+      {
+        "Product Name": "Practical Shoes",
+        "QTY": 5,
+        "Unit Price": 383.57,
+        "Total Cost": 1917.85
+      },
+      {
+        "Product Name": "Frozen Car",
+        "QTY": 6,
+        "Unit Price": 252.67,
+        "Total Cost": 1516.02
+      },
+      {
+        "Product Name": "Sleek Rubber Towels",
+        "QTY": 6,
+        "Unit Price": 441.52,
+        "Total Cost": 2649.12
+      },
+      {
+        "Product Name": "Tasty Fresh Salad",
+        "QTY": 7,
+        "Unit Price": 137.5,
+        "Total Cost": 962.5
+      },
+      {
+        "Product Name": "Shirt",
+        "QTY": 9,
+        "Unit Price": 405.82,
+        "Total Cost": 3652.38
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2004-01-08",
+    "First Name": "Laura",
+    "Last Name": "Aguilar",
+    "Residence": "913 Sharp Estate Apt. 067\nStaceyshire, HI 22128",
+    "Email": "Laura.Aguilar@gmail.com",
+    "Phone Number": "9106000322",
+    "Items Purchased": [
+      {
+        "Product Name": "Fish",
+        "QTY": 10,
+        "Unit Price": 70.82,
+        "Total Cost": 708.1999999999999
+      },
+      {
+        "Product Name": "Shirt",
+        "QTY": 6,
+        "Unit Price": 441.04,
+        "Total Cost": 2646.2400000000002
+      },
+      {
+        "Product Name": "Granite Mouse",
+        "QTY": 11,
+        "Unit Price": 87.49,
+        "Total Cost": 962.39
+      },
+      {
+        "Product Name": "Bike",
+        "QTY": 4,
+        "Unit Price": 6.52,
+        "Total Cost": 26.08
+      },
+      {
+        "Product Name": "Rubber Hat",
+        "QTY": 2,
+        "Unit Price": 546.31,
+        "Total Cost": 1092.62
+      },
+      {
+        "Product Name": "Soft Gloves",
+        "QTY": 6,
+        "Unit Price": 479.41,
+        "Total Cost": 2876.46
+      },
+      {
+        "Product Name": "Chair",
+        "QTY": 3,
+        "Unit Price": 365.5,
+        "Total Cost": 1096.5
+      },
+      {
+        "Product Name": "Practical Pizza",
+        "QTY": 2,
+        "Unit Price": 124.32,
+        "Total Cost": 248.64
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2019-05-01",
+    "First Name": "Lindsey",
+    "Last Name": "Romero",
+    "Residence": "1325 Heather Keys Apt. 613\nPort Chadton, HI 17527",
+    "Email": "Lindsey.Romero@gmail.com",
+    "Phone Number": "6108313347",
+    "Items Purchased": [
+      {
+        "Product Name": "Tuna",
+        "QTY": 4,
+        "Unit Price": 112.55,
+        "Total Cost": 450.2
+      },
+      {
+        "Product Name": "Cotton Salad",
+        "QTY": 3,
+        "Unit Price": 280.39,
+        "Total Cost": 841.17
+      },
+      {
+        "Product Name": "Frozen Bacon",
+        "QTY": 3,
+        "Unit Price": 238.37,
+        "Total Cost": 715.11
+      },
+      {
+        "Product Name": "Salad",
+        "QTY": 6,
+        "Unit Price": 394.84,
+        "Total Cost": 2369.04
+      },
+      {
+        "Product Name": "Soft Towels",
+        "QTY": 1,
+        "Unit Price": 400.92,
+        "Total Cost": 400.92
+      },
+      {
+        "Product Name": "Intelligent Concrete Tuna",
+        "QTY": 3,
+        "Unit Price": 55.77,
+        "Total Cost": 167.31
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2002-04-19",
+    "First Name": "Jessica",
+    "Last Name": "Downs",
+    "Residence": "Unit 0758 Box 5280\nDPO AP 08550",
+    "Email": "Jessica.Downs@gmail.com",
+    "Phone Number": "9825342902",
+    "Items Purchased": [
+      {
+        "Product Name": "Rustic Mouse",
+        "QTY": 6,
+        "Unit Price": 215.41,
+        "Total Cost": 1292.46
+      },
+      {
+        "Product Name": "Wooden Hat",
+        "QTY": 3,
+        "Unit Price": 78.37,
+        "Total Cost": 235.11
+      },
+      {
+        "Product Name": "Frozen Chicken",
+        "QTY": 8,
+        "Unit Price": 518.46,
+        "Total Cost": 4147.68
+      },
+      {
+        "Product Name": "Concrete Pants",
+        "QTY": 9,
+        "Unit Price": 115.93,
+        "Total Cost": 1043.3700000000001
+      },
+      {
+        "Product Name": "Licensed Granite Gloves",
+        "QTY": 7,
+        "Unit Price": 539.26,
+        "Total Cost": 3774.8199999999997
+      },
+      {
+        "Product Name": "Wooden Pants",
+        "QTY": 9,
+        "Unit Price": 351.57,
+        "Total Cost": 3164.13
+      },
+      {
+        "Product Name": "Mouse",
+        "QTY": 2,
+        "Unit Price": 383.55,
+        "Total Cost": 767.1
+      },
+      {
+        "Product Name": "Steel Soap",
+        "QTY": 11,
+        "Unit Price": 261.12,
+        "Total Cost": 2872.32
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2010-05-02",
+    "First Name": "Felicia",
+    "Last Name": "Mendoza",
+    "Residence": "19077 Lori Ridges\nKatiefort, IA 98665",
+    "Email": "Felicia.Mendoza@gmail.com",
+    "Phone Number": "7019631113",
+    "Items Purchased": [
+      {
+        "Product Name": "Small Rubber Chair",
+        "QTY": 3,
+        "Unit Price": 387.62,
+        "Total Cost": 1162.8600000000001
+      },
+      {
+        "Product Name": "Cotton Ball",
+        "QTY": 4,
+        "Unit Price": 454.85,
+        "Total Cost": 1819.4
+      },
+      {
+        "Product Name": "Ball",
+        "QTY": 11,
+        "Unit Price": 513.46,
+        "Total Cost": 5648.06
+      },
+      {
+        "Product Name": "Small Hat",
+        "QTY": 9,
+        "Unit Price": 17.2,
+        "Total Cost": 154.79999999999998
+      },
+      {
+        "Product Name": "Chair",
+        "QTY": 11,
+        "Unit Price": 520.31,
+        "Total Cost": 5723.41
+      },
+      {
+        "Product Name": "Cotton Tuna",
+        "QTY": 1,
+        "Unit Price": 463.75,
+        "Total Cost": 463.75
+      },
+      {
+        "Product Name": "Gloves",
+        "QTY": 9,
+        "Unit Price": 300.78,
+        "Total Cost": 2707.0199999999995
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2018-01-04",
+    "First Name": "Vicki",
+    "Last Name": "Smith",
+    "Residence": "79628 Stout Plains Apt. 904\nEast Melissa, NE 78412",
+    "Email": "Vicki.Smith@gmail.com",
+    "Phone Number": "6074460007",
+    "Items Purchased": [
+      {
+        "Product Name": "Sleek Wooden Computer",
+        "QTY": 3,
+        "Unit Price": 325.63,
+        "Total Cost": 976.89
+      },
+      {
+        "Product Name": "Sausages",
+        "QTY": 7,
+        "Unit Price": 518.92,
+        "Total Cost": 3632.4399999999996
+      },
+      {
+        "Product Name": "Small Shirt",
+        "QTY": 8,
+        "Unit Price": 314.78,
+        "Total Cost": 2518.24
+      },
+      {
+        "Product Name": "Mouse",
+        "QTY": 1,
+        "Unit Price": 130.63,
+        "Total Cost": 130.63
+      },
+      {
+        "Product Name": "Keyboard",
+        "QTY": 10,
+        "Unit Price": 291.83,
+        "Total Cost": 2918.2999999999997
+      },
+      {
+        "Product Name": "Shoes",
+        "QTY": 7,
+        "Unit Price": 267.02,
+        "Total Cost": 1869.1399999999999
+      },
+      {
+        "Product Name": "Fantastic Salad",
+        "QTY": 10,
+        "Unit Price": 198.84,
+        "Total Cost": 1988.4
+      },
+      {
+        "Product Name": "Frozen Towels",
+        "QTY": 10,
+        "Unit Price": 482.04,
+        "Total Cost": 4820.400000000001
+      },
+      {
+        "Product Name": "Granite Mouse",
+        "QTY": 8,
+        "Unit Price": 167.22,
+        "Total Cost": 1337.76
+      },
+      {
+        "Product Name": "Incredible Computer",
+        "QTY": 10,
+        "Unit Price": 496.65,
+        "Total Cost": 4966.5
+      }
+    ]
+  },
+  {
+    "Date of Issue": "2007-02-27",
+    "First Name": "Ann",
+    "Last Name": "Peterson",
+    "Residence": "6460 Avery Overpass Suite 748\nVelasquezburgh, NV 34926",
+    "Email": "Ann.Peterson@gmail.com",
+    "Phone Number": "8970411525",
+    "Items Purchased": [
+      {
+        "Product Name": "Bike",
+        "QTY": 11,
+        "Unit Price": 45.16,
+        "Total Cost": 496.76
+      },
+      {
+        "Product Name": "Frozen Shirt",
+        "QTY": 2,
+        "Unit Price": 377.96,
+        "Total Cost": 755.92
+      },
+      {
+        "Product Name": "Rustic Rubber Shirt",
+        "QTY": 3,
+        "Unit Price": 110.09,
+        "Total Cost": 330.27
+      },
+      {
+        "Product Name": "Handmade Steel Cheese",
+        "QTY": 10,
+        "Unit Price": 297.82,
+        "Total Cost": 2978.2
+      },
+      {
+        "Product Name": "Fresh Gloves",
+        "QTY": 10,
+        "Unit Price": 226.64,
+        "Total Cost": 2266.3999999999996
+      },
+      {
+        "Product Name": "Generic Plastic Shirt",
+        "QTY": 8,
+        "Unit Price": 170.43,
+        "Total Cost": 1363.44
+      },
+      {
+        "Product Name": "Handcrafted Granite Shirt",
+        "QTY": 9,
+        "Unit Price": 494.92,
+        "Total Cost": 4454.28
+      },
+      {
+        "Product Name": "Generic Granite Mouse",
+        "QTY": 6,
+        "Unit Price": 502.09,
+        "Total Cost": 3012.54
+      },
+      {
+        "Product Name": "Licensed Plastic Fish",
+        "QTY": 1,
+        "Unit Price": 10.29,
+        "Total Cost": 10.29
+      },
+      {
+        "Product Name": "Gloves",
+        "QTY": 3,
+        "Unit Price": 95.66,
+        "Total Cost": 286.98
+      }
+    ]
+  }
+]
