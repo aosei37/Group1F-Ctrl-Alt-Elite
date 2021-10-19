@@ -1,3 +1,9 @@
+Company Details:
+Name: KATRA Inc
+Address: 10178 Shelia Shoals
+East Johnview, GA 19047
+
+
 [
   {
     "Date of Issue": "2019-04-01",
