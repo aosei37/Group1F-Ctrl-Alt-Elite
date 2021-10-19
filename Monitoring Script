@@ -1,0 +1,51 @@
+#!/bin/bash
+if [ $# -ne 4 ]
+then
+        echo "Usage: Four arguments in order of control, file d
+atabase, resource."
+fi
+
+date=$(date '+%Y-%m-%d')
+status=$(sudo lxc-ls -f | grep $1 | grep STOPPED)
+
+if [ -z "$status" ]
+then
+        sudo lxc-attach -n $1 -- echo q | htop -C | aha --line-
+fix | html2text -width 999 | grep -v "F1Help\|xml version=" > $
+1_Health_$date.txt
+else
+        echo "$1 is Stopped" >> error_$date.txt
+fi
+
+
+status=$(sudo lxc-ls -f | grep $2 | grep STOPPED)
+if [ -z "$status" ]
+then
+        sudo lxc-attach -n $2 -- echo q | htop -C | aha --line-
+fix | html2text -width 999 | grep -v "F1Help\|xml version=" > $
+2_Health_$date.txt
+else
+        echo "$2 is Stopped" >> error_$date.txt
+fi
+
+status=$(sudo lxc-ls -f | grep $3 | grep STOPPED)
+if [ -z "$status" ]
+then
+        sudo lxc-attach -n $3 -- echo q | htop -C | aha --line-
+fix | html2text -width 999 | grep -v "F1Help\|xml version=" > $
+3_Health_$date.txt
+else
+        echo "$3 is Stopped" >> error_$date.txt
+fi
+
+status=$(sudo lxc-ls -f | grep $4 | grep STOPPED)
+if [ -z "$status" ]
+then
+        sudo lxc-attach -n $4 -- echo q | htop -C | aha --line-
+fix | html2text -width 999 | grep -v "F1Help\|xml version=" > $
+4_Health_$date.txt
+else
+        echo "$4 is Stopped" >> error_$date.txt
+fi
+
+iptables-restore /root/working.iptables.rules
