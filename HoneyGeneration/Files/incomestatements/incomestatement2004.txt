@@ -1,0 +1,22 @@
+********************************************************************
+                            KATRA, Inc.
+                         INCOME STATEMENT
+                 For Year Ended September 28, 2004
+====================================================================
+Net Sales                               		$971125.00
+Cost of Sales                           		$527037.33
+	GROSS PROFIT                           		$444087.67
+
+Selling and Operating Expenses          		$106275.25
+General and Administrative Expenses     		$62532.89
+	TOTAL OPERATING EXPENSES               		$168808.14
+	OPERATING INCOME                       		$275279.53
+
+Other Income                            		$594.00 
+Interest Expense                        		$22346.00
+	INCOME BEFORE TAXES                    		$253527.53
+
+Income Tax Expense                      		$53240.78
+
+NET INCOME                              		$200286.75
+********************************************************************
