@@ -1,0 +1,30 @@
+#!/bin/bash
+
+echo "Recycle Date: $(date)" >> recycling_results.txt
+echo "Starting to recycle containers: main_control, main_files, main_database, main_resources...." >> recycling_results.txt
+
+lxc-stop -n "main_control"
+lxc-stop -n "main_files"
+lxc-stop -n "main_database"
+lxc-stop -n "main_resources"
+lxc-destroy -n "main_control"
+lxc-destroy -n "main_files"
+lxc-destroy -n "main_database"
+lxc-destroy -n "main_resources"
+echo "All containers have been stopped and destroyed..." >> recycling_results.txt
+
+sleep 10
+
+#Source containers should be stopped
+lxc-copy -n "control_template" -N "main_control"
+lxc-copy -n "files_template" -N "main_files"
+lxc-copy -n "database_template" -N "main_database"
+lxc-copy -n "resources_template" -N "main_resources"
+echo "All containers have been copied with their corresponding template..." >> recycling_results.txt
+
+lxc-start -n "main_control"
+lxc-start -n "main_files"
+lxc-start -n "main_database"
+lxc-start -n "main_resources"
+echo "All containers have been started!" >> recycling_results.txt
+echo "----------------------------------------" >> recycling_results.txt
