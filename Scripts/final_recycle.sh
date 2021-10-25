@@ -58,9 +58,13 @@ echo "All containers have been destroyed and recreated!" >> $RESULTS_PATH/$date.
 
 # Adding the .downloads folder to all containers for poisoned commands
 sudo mkdir /var/lib/lxc/main_control/rootfs/var/log/.downloads
+chmod ugo+w /var/lib/lxc/main_control/rootfs/var/log/.downloads
 sudo mkdir /var/lib/lxc/main_files/rootfs/var/log/.downloads
+chmod ugo+w /var/lib/lxc/main_files/rootfs/var/log/.downloads
 sudo mkdir /var/lib/lxc/main_database/rootfs/var/log/.downloads
+chmod ugo+w /var/lib/lxc/main_database/rootfs/var/log/.downloads
 sudo mkdir /var/lib/lxc/main_resources/rootfs/var/log/.downloads
+chmod ugo+w /var/lib/lxc/main_resources/rootfs/var/log/.downloads
 
 # adding poisoned commands to control 
 sudo lxc-attach -n main_control -- echo -e "y\n" | sudo lxc-attach -n main_control sudo apt install curl 

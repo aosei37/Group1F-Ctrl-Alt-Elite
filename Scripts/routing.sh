@@ -10,8 +10,8 @@ sudo ip addr add 128.8.238.93/26 brd + dev enp4s2
 sudo ip addr add 128.8.37.112/27 brd + dev enp4s2
 sudo ip link set dev enp4s2 up
 
-lines=$(wc -l /etc/iproute2/rt_tables | cut -d " " -f 1)
-if [ lines == 11 ]
+VAR=$(sudo grep /etc/iproute2/rt_tables "Gateway1")
+if [ -z "$VAR" ]
 then
 echo "2 Gateway1" |sudo tee -a /etc/iproute2/rt_tables
 echo "3 Gateway2" |sudo tee -a /etc/iproute2/rt_tables
