@@ -5,8 +5,9 @@ HOST_NAME=/home/student/Group1F-Ctrl-Alt-Elite/Scripts/hostname.sh
 MEMORY_PATH=/home/student/Group1F-Ctrl-Alt-Elite/Scripts/memory-modifier.sh
 MITM_PATH=/home/student/Group1F-Ctrl-Alt-Elite/Scripts/mitm_setup.sh
 ROUTING_PATH=/home/student/Group1F-Ctrl-Alt-Elite/Scripts/routing.sh
-date=`date +"T:%Y-%m-%d"`
+date=`date "+%H:%M-%Y-%m-%d"`
 
+echo -e "------------------------------------------------\n" >> $RESULTS_PATH/$date.results.txt
 echo "Recycle Date: $(date)" >> $RESULTS_PATH/$date.results.txt
 echo "Starting to recycle containers: main_control, main_files, main_database, main_resources...." >> $RESULTS_PATH/$date.results.txt
 
@@ -19,7 +20,7 @@ lxc-destroy -n "main_control"
 lxc-destroy -n "main_files"
 lxc-destroy -n "main_database"
 lxc-destroy -n "main_resources"
-echo "All containers have been stopped and destroyed..." >> recycling_results.txt
+echo "All containers have been stopped and destroyed..." >> $RESULTS_PATH/$date.results.txt
 
 #Flushing the iptables and re-adding the blacklist to the rules
 sudo ipset save blacklist -f /home/student/Backup/ipset-blacklist.backup
@@ -41,7 +42,7 @@ $CREATE_PATH main_database 128.8.238.93 26
 echo "Main database container has been recreated with it's corresponding IP table Rules..." >> $RESULTS_PATH/$date.results.txt
 
 $CREATE_PATH main_resources 128.8.37.112 27
-echo "Main resources container has been recreated with it's corresponding IP table Rules..." >> $RESULTS_PATH/$date.results.txti
+echo "Main resources container has been recreated with it's corresponding IP table Rules..." >> $RESULTS_PATH/$date.results.txt
 echo "All containers have been destroyed and recreated!" >> $RESULTS_PATH/$date.results.txt
 
 # Changing the hostname of all the containers
@@ -55,6 +56,7 @@ echo "Host names have been changed for all containers..." >> $RESULTS_PATH/$date
 $MEMORY_PATH main_control main_files main_database
 echo "Memory has been modified for main_control, and main_files, and main_database..." >> $RESULTS_PATH/$date.results.txt                                   
 echo "All containers have been destroyed and recreated!" >> $RESULTS_PATH/$date.results.txt
+echo -e "------------------------------------------------\n\n" >> $RESULTS_PATH/$date.results.txt
 
 # Adding the .downloads folder to all containers for poisoned commands
 sudo mkdir /var/lib/lxc/main_control/rootfs/var/log/.downloads
