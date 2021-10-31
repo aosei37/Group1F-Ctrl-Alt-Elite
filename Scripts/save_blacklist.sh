@@ -24,7 +24,7 @@ do
 	 if [ $result -ne 0 ]
 	 then
 		 sudo ipset add blacklist $line > /dev/null 2>&1
-		 echo $line >> $BLACKLISTED
+		 echo "$line" >> $BLACKLISTED
 	 fi
 
 
@@ -38,7 +38,7 @@ do
          if [ $result -ne 0 ]
          then
                  sudo ipset add blacklist $line > /dev/null 2>&1
-		 echo $line >> $BLACKLISTED
+		 echo "$line" >> $BLACKLISTED
          fi
 
 
@@ -51,7 +51,7 @@ do
          if [ $result -ne 0 ]
          then
                  sudo ipset add blacklist $line > /dev/null 2>&1
-		 echo $line >> $BLACKLISTED
+		 echo "$line" >> $BLACKLISTED
          fi
 
 
@@ -64,7 +64,7 @@ do
          if [ $result -ne 0 ]
          then
                  sudo ipset add blacklist $line > /dev/null 2>&1
-		 echo $line >> $BLACKLISTED
+		 echo "$line" >> $BLACKLISTED
          fi
 
 
