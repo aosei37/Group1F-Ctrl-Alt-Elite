@@ -18,19 +18,48 @@ echo "3 Gateway2" |sudo tee -a /etc/iproute2/rt_tables
 fi
 
 CONTROL=$(sudo lxc-info -n main_control -iH)
-FILES=$(sudo lxc-info -n main_files -iH)
-DATABASE=$(sudo lxc-info -n main_database -iH)
+control_ext_ip=$(sudo iptables -L -v -n -t nat | grep $CONTROL | tail -n 1 | cut -d ":" -f 2 | 238)
+
 RESOURCES=$(sudo lxc-info -n main_resources -iH)
+resources_ext_ip=$(sudo iptables -L -v -n -t nat | grep $RESOURCES | tail -n 1 | cut -d ":" -f 2 | grep 238)
+
+DATABASE=$(sudo lxc-info -n main_database -iH)
+db_ext_ip=$(sudo iptables -L -v -n -t nat | grep $DATABASE | tail -n 1 | cut -d ":" -f 2 | grep 238)
+
+FILES=$(sudo lxc-info -n main_files -iH)
+files_ext_ip=$(sudo iptables -L -v -n -t nat | grep $FILES | tail -n 1 | cut -d ":" -f 2 | grep 238)
+
 
 sudo ip route add default via 128.8.37.97 table 2
 sudo ip route add default via 128.8.238.65 table 3
 
 
-sudo ip rule add from $CONTROL table 2
-sudo ip rule add from $FILES table 2
-sudo ip rule add from $DATABASE table 3
-sudo ip rule add from $RESOURCES table 2
+if [ -z "$control_ext_ip" ]
+then
+	sudo ip rule add from $CONTROL table 2
+else
+	sudo ip rule add from $CONTROL table 3
+fi
 
+if [ -z "$resources_ext_ip" ]
+then
+        sudo ip rule add from $RESOURCES table 2
+else
+        sudo ip rule add from $RESOURCES table 3
+fi
 
+if [ -z "$database_ext_ip" ]
+then
+        sudo ip rule add from $DATABASE table 2
+else
+        sudo ip rule add from $DATABASE table 3
+fi
+
+if [ -z "$files_ext_ip" ]
+then
+        sudo ip rule add from $FILES table 2
+else
+        sudo ip rule add from $FILES table 3
+fi
 
 

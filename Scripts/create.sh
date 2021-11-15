@@ -25,7 +25,7 @@ then
 
       sudo lxc-start -n $1
       sleep 8
-      ip=`sudo lxc-info -n $1 -iH`
+      ip=$(sudo lxc-info -n $1 -iH)
 
       sudo iptables --table nat --insert PREROUTING --source 0.0.0.0/0 --destination $2 --jump DNAT --to-destination $ip
       sudo iptables --table nat --insert POSTROUTING --source $ip --destination 0.0.0.0/0 --jump SNAT --to-source $2
