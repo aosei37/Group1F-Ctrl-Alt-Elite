@@ -18,7 +18,7 @@ echo "3 Gateway2" |sudo tee -a /etc/iproute2/rt_tables
 fi
 
 CONTROL=$(sudo lxc-info -n main_control -iH)
-control_ext_ip=$(sudo iptables -L -v -n -t nat | grep $CONTROL | tail -n 1 | cut -d ":" -f 2 | 238)
+control_ext_ip=$(sudo iptables -L -v -n -t nat | grep $CONTROL | tail -n 1 | cut -d ":" -f 2 | grep 238)
 
 RESOURCES=$(sudo lxc-info -n main_resources -iH)
 resources_ext_ip=$(sudo iptables -L -v -n -t nat | grep $RESOURCES | tail -n 1 | cut -d ":" -f 2 | grep 238)
