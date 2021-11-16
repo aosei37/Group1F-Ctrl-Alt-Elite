@@ -1,0 +1,25 @@
+2021-10-30 20:07:58.265 - [Info] MITM Version: 1.4
+2021-10-30 20:07:58.268 - [Info] Auto Access Enabled: true
+2021-10-30 20:07:58.268 - [Debug] [Init] Auto Access Barrier: true
+2021-10-30 20:07:58.280 - [Info] SSH man-in-the-middle server for 10.0.3.31 listening on 0.0.0.0:10002
+2021-10-30 20:36:27.056 - [Debug] [Connection] Attacker connected: 209.141.54.35 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-10-30 20:36:27.845 - [Debug] [Auth] Attacker 209.141.54.35 trying to authenticate with "password"
+2021-10-30 20:36:27.846 - [Debug] [Auto Access] Attacker: 209.141.54.35, Threshold: 1, Attempts: 1
+2021-10-30 20:36:27.846 - [Debug] [Auto Access] Compromising the honeypot
+2021-10-30 20:36:27.846 - [Debug] [Auto Access] Adding the following credentials: "user:1"
+2021-10-30 20:36:27.917 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-10-30 20:36:27.917 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.31
+2021-10-30 20:36:27.966 - [Debug] [LXC-Auth] Attacker authenticated and is inside container
+2021-10-30 20:36:28.328 - [Debug] [EXEC] Noninteractive mode attacker command: sudo hive-passwd upu2B8Hed2dy8i6XYF7; pkill Xorg; pkill x11vnc; pkill Hello; systemctl stop shellinabox; history -c
+2021-10-30 20:36:28.511 - [Debug] [Connection] Attacker closed connection
+2021-10-30 20:36:28.518 - [Debug] [LXC] Container's OpenSSH server ended connection
+2021-10-30 20:36:28.518 - [Debug] [LXC] Container's OpenSSH server closed connection
+2021-10-30 20:36:54.364 - [Debug] [Connection] Attacker connected: 209.141.54.35 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-10-30 20:36:55.143 - [Debug] [Auth] Attacker 209.141.54.35 trying to authenticate with "password"
+2021-10-30 20:36:55.144 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-10-30 20:36:55.144 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.31
+2021-10-30 20:36:55.144 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-10-30 20:36:55.145 - [Debug] [Auth] Attacker: 209.141.54.35 has so far made 1 attempts. Remaining: 3 attempts
+2021-10-30 20:36:55.145 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-10-30 20:36:55.145 - [Debug] [Auth] Attacker: 209.141.54.35 has so far made 2 attempts. Remaining: 2 attempts
+2021-10-30 20:36:55.318 - [Debug] [Connection] Attacker closed the connection

