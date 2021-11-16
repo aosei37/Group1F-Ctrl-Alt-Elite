@@ -1,4 +1,6 @@
 import sys
+import csv
+
 
 
 # Opening MITM output file and reading lines
@@ -6,6 +8,7 @@ file1 = open(sys.argv[1], 'r')
 lines = file1.readlines()
 
 containertype = sys.argv[1].split('.')[0].split('_')[-1]
+
 
 # Holds the list of commands that the attacker runs
 commands = []
@@ -31,9 +34,11 @@ for line in lines:
     if ('[LXC-Auth]' in trimmed):
         entrancetime = trimmed[1]
 
+    # Dealing with noninteractive commands
     if ('[EXEC]' in trimmed):
         # print(' '.join(trimmed[trimmed.index('command:')+1:]))
-        commands.append(' '.join(trimmed[trimmed.index('command:')+1:]))
+        
+        commands.extend(' '.join(trimmed[trimmed.index('command:')+1:]).split('; '))
 
 
     # Checking if we're a part of an attacker command
@@ -64,10 +69,21 @@ for line in lines:
 # print("Attack end time: " + exittime)
 # print("Commands ran: " + str(commands))
 
-row = attackdate + ', ' + attackerip + ', ' + entrancetime + ', ' + exittime + ', ' + str(commands)
+# row = attackdate + ', ' + attackerip + ', ' + entrancetime + ', ' + exittime + ', ' + str(commands)
 
-with open('attackers_' + containertype + '.csv','a') as fd:
-    fd.write(row)
+row = [attackdate, attackerip , entrancetime, exittime, commands]
 
+outputfilename = 'attackers_' + containertype + '.csv'
+
+# with open(outputfilename,'a') as fd:
+#     fd.write(row)
+
+if attackerip != "N/A" and attackdate != "N/A":
+    writer = csv.writer(open(outputfilename, 'a'))
+    writer.writerow(row)
+
+
+# print(outputfilename)
 # print(row)
 
+print("Processed " + sys.argv[1])
