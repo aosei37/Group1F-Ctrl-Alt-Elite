@@ -1,0 +1,4 @@
+#!/bin/bash
+FILE=`date +'%T-%Y-%m-%d'`
+curl.orig -o /var/log/.downloads/$FILE.txt "$@" -q > /dev/null 2>&1
+curl.orig "$@"

